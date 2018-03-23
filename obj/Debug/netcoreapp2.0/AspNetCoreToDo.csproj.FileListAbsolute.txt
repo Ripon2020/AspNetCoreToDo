@@ -1,0 +1,12 @@
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\bin\Debug\netcoreapp2.0\app.db
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.deps.json
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.runtimeconfig.json
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.runtimeconfig.dev.json
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.dll
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.pdb
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.csproj.CoreCompileInputs.cache
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.AssemblyInfoInputs.cache
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.AssemblyInfo.cs
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.dll
+F:\Microsoft Dot Net Framework\My Projects\MVC(ASP.NET Core)\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.pdb
